@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0224f129e5acd624b8b1d7fe0dd1e636, type: 3}
+  m_Name: PropertySettings
+  m_EditorClassIdentifier: 
+  propertyInfos:
+  - propertyKey: IntProperty
+    groupName: 
+    type: Int
+    comment: 
+  - propertyKey: IntProperty2
+    groupName: 
+    type: Int
+    comment: 
+  - propertyKey: FloatProperty
+    groupName: 
+    type: Float
+    comment: 
+  - propertyKey: HpPercentage
+    groupName: 
+    type: Float
+    comment: 
+  - propertyKey: StringProperty
+    groupName: 
+    type: String
+    comment: 
+  - propertyKey: BoolProperty
+    groupName: 
+    type: Bool
+    comment: 
+  - propertyKey: TimeSpanProperty
+    groupName: 
+    type: TimeSpan
+    comment: 
+  - propertyKey: DateTimeProperty
+    groupName: 
+    type: String
+    comment: 
+  - propertyKey: IntProperty3
+    groupName: 
+    type: Quaternion
+    comment: 
+  - propertyKey: IntProperty4
+    groupName: 
+    type: Vector2
+    comment: 
+  - propertyKey: IntProperty5
+    groupName: 
+    type: Vector3
+    comment: 
+  - propertyKey: IntProperty6
+    groupName: 
+    type: Color
+    comment: 
+  propertyTypeEditorInfos:
+  - typeName: Int
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+    - typeName: AddCommas
+      comment: 
+    - typeName: KmbFormat
+      comment: 
+    - typeName: RedHint
+      comment: 
+    - typeName: BFormatOrAddCommans
+      comment: 
+  - typeName: Long
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+    - typeName: AddCommas
+      comment: 
+    - typeName: KmbFormat
+      comment: 
+    - typeName: BFormatOrAddCommans
+      comment: 
+    - typeName: ToTimeTextRedHint
+      comment: 
+  - typeName: Float
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+    - typeName: Floor
+      comment: 
+    - typeName: Ceiling
+      comment: 
+    - typeName: Round
+      comment: 
+    - typeName: SliderPercentage
+      comment: 
+    - typeName: ImageFillAmount
+      comment: 
+  - typeName: String
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+    - typeName: AsImageSprite
+      comment: 
+  - typeName: Bool
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+    - typeName: ToToggle
+      comment: 
+    - typeName: Visible
+      comment: 
+    - typeName: IsInteractable
+      comment: 
+    - typeName: IsPlayAudio
+      comment: 
+  - typeName: TimeSpan
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+  - typeName: DateTime
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+  - typeName: Vector3
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToLocalPosition
+      comment: 
+  - typeName: Vector2
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToAnchorPosition
+      comment: 
+  - typeName: Color
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToImageColor
+      comment: 
+  - typeName: Quaternion
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToLocalRotation
+      comment: 
+  - typeName: ULong
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 
+    - typeName: AddCommas
+      comment: 
+    - typeName: KmbFormat
+      comment: 
+    - typeName: BFormatOrAddCommas
+      comment: 
+  - typeName: WorldMapPosition
+    comment: 
+    handleTypeEditorInfos:
+    - typeName: ToText
+      comment: 

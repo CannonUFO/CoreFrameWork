@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Static_UI_Bundle
+  m_EditorClassIdentifier: 
+  m_GroupName: Static_UI_Bundle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 170b32d05ee3fdc43acbfc12db816a0f
+  m_SerializeEntries:
+  - m_GUID: 4893f019b28622c499e24c80ea6685bb
+    m_Address: Assets/MainAssets/ArtSource/2D/UI/BackpackUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4091fcd5239caca47b5184d9232961fb
+    m_Address: Assets/MainAssets/ArtSource/2D/UI/ChangeSceneUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f3adb3c244e0f543b20b32813e62096
+    m_Address: Assets/MainAssets/ArtSource/2D/UI/ClanUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c83befe0faf93c44d94c573cac9403ef
+    m_Address: Assets/MainAssets/ArtSource/2D/UI/HeroUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fe42960518b2f044982c5a10ed9b98e
+    m_Address: Assets/MainAssets/ArtSource/2D/UI/SpriteAtlasUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50f72f17b976c5d4b8535584c49f5a84
+    m_Address: Assets/MainAssets/ArtSource/2D/UI/TickerUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5fde96dd5cd66374f95d28b9768ab7f0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 18e625a47f2f0ba4f80cefb08ad8edc0, type: 2}
+    - {fileID: 11400000, guid: cb671b78252f61c4d9b8b2e35101ca63, type: 2}

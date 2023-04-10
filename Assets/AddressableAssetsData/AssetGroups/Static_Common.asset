@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Static_Common
+  m_EditorClassIdentifier: 
+  m_GroupName: Static_Common
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 74b04fdd1e9262b40be4c2fda1485615
+  m_SerializeEntries:
+  - m_GUID: 10a9736b03bf9df4fb69cc06abf276e4
+    m_Address: Assets/MainAssets/Configs/GameConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7bfb35dc2f3df24ab70e448bd64b373
+    m_Address: Assets/MainAssets/Configs/PropertySettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c2025705d030f14e9b11dea5d264182
+    m_Address: Assets/MainAssets/Configs/SceneConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5fde96dd5cd66374f95d28b9768ab7f0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b57f7f5a2ef35e5409104102e8305bdf, type: 2}
+    - {fileID: 11400000, guid: c12d77a6cf2b9cc44bf6ec6197b426a7, type: 2}

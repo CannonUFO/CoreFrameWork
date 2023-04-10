@@ -1,0 +1,19 @@
+{
+    "name": "GameModule.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:923d9a86fefb83b4c85cc7ba21c5b210",
+        "GUID:69448af7b92c7f342b298e06a37122aa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d04fd565201293649893666e5e23f064, type: 3}
+  m_Name: SceneConfig
+  m_EditorClassIdentifier: 
+  emptySceneFileName: EmptyScene
+  emptySceneRef:
+    m_AssetGUID: 983b9475010be8f4ca4cc2dee999809b
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  loadFromBundle: 0
+  EnterEmptyScene: 1
+  sceneInfos:
+  - sceneName: InitialScene
+    sceneFileName: InitialScene
+    sceneRef:
+      m_AssetGUID: e82ba3adddac7744b85fcf9a4c56db66
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    prefabRef:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - sceneName: HomeScene
+    sceneFileName: HomeScene
+    sceneRef:
+      m_AssetGUID: 81e25fe750c097b4fbc20d1a7145761c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    prefabRef:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - sceneName: SocialScene
+    sceneFileName: SocialScene
+    sceneRef:
+      m_AssetGUID: c8416194c35e31842b95b7d13a6ef407
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    prefabRef:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
